@@ -1,0 +1,15 @@
+interface:
+  display_name: 空间设计提案 PPT
+  short_description: 从项目依据推导设计判断，先打磨整页视觉，再重建分析清晰的可编辑 PPT
+  default_prompt: Use $ppt-image-deck to develop my project materials into a Chinese
+    spatial proposal, refine representative full-slide visual drafts, then rebuild
+    and verify the requested editable PPT.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
