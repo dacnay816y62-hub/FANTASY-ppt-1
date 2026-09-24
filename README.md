@@ -8,6 +8,20 @@
 
 仓库品牌名称为 **FANTASY PPT SKILL**；技能调用名称保留为 **`ppt-image-deck`**。入口：[SKILL.md](SKILL.md)。
 
+## 成品案例精选
+
+四个模拟项目，分别展示住宅、餐饮、零售与酒店方向。每张竖版组合图包含一张封面和四张精选内页，保留原提案中的分析、平面和材质表达。
+
+| 对位 · 巴黎私人公寓 | 席间 · 苏州当代餐厅 |
+| --- | --- |
+| ![对位：巴黎私人公寓提案精选](examples/gallery/01-counterpoint-paris.png) | ![席间：苏州当代餐厅提案精选](examples/gallery/02-between-tables-suzhou.png) |
+| 折光 · 上海香氛旗舰店 | 隙山 · 西藏山地旅宿 |
+| ![折光：上海香氛旗舰店提案精选](examples/gallery/03-refraction-shanghai.png) | ![隙山：西藏山地旅宿提案精选](examples/gallery/04-interval-tibet.png) |
+
+**[下载四张高清竖图 ZIP](downloads/fantasy-ppt-portrait-gallery.zip?raw=true)** · [查看 PDF 合集](downloads/fantasy-ppt-selected-works.pdf) · [案例与页码说明](docs/GALLERY.md)
+
+图片为 3:4、1800 × 2400 像素。以上是 Skill 工作流测试中的模拟设计提案，不代表已建成项目；下载包为展示图，不包含这些案例的完整源 PPT。
+
 ## 从这里开始
 
 | 你想做什么 | 阅读入口 |
